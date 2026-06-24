@@ -7,7 +7,10 @@
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-CDN-3448C5.svg?logo=cloudinary)](https://cloudinary.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+🌐 **GitHub Repository**: [https://github.com/Arunsanap99/clubonlink](https://github.com/Arunsanap99/clubonlink)
+
 **ClubOnLink** is an enterprise-grade, multi-tenant community and club management SaaS platform. It enables organizations, universities, and clubs to spawn customized portals under isolated subdomains/routes, manage members with role-based access control (RBAC), process premium subscription billing, manage real-time leaderboards, and view engagement analytics on a sleek, interactive dashboard.
+
 
 ---
 
