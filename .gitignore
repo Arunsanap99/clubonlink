@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+**/.env
+**/.env.local
+**/.env.*.local
+
+# Build output
+dist/
+**/dist/
+build/
+**/build/
+
+# Zip files and binaries
+*.zip
+**/*.zip
+*.tar.gz
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System/IDE Files
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db
